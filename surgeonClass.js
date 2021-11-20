@@ -18,7 +18,7 @@ class Surgeon {
   }
   
   takeVacationDays(daysOff) {
-    this._remainingVacationDays -= daysOff;
+    this._remainingVacationDays - daysOff;
   }
 }
 
